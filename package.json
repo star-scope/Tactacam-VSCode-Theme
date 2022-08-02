@@ -3,6 +3,16 @@
     "displayName": "Tactacam VSCode Theme",
     "description": "VSCode Theme using the Tactacam Universal Design System colors",
     "version": "0.0.1",
+    "publisher": "Starscope",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/star-scope/Tactacam-VSCode-Theme"
+    },
+    "keywords": [
+        "tactacam",
+        "dark",
+        "starscope"
+    ],
     "engines": {
         "vscode": "^1.69.0"
     },
