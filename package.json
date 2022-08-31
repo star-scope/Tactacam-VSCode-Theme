@@ -4,6 +4,8 @@
     "description": "VSCode Theme using the Tactacam Universal Design System colors",
     "version": "0.0.1",
     "publisher": "Starscope",
+    "galleryBanner.color": "#101010",
+    "icon": "Icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/star-scope/Tactacam-VSCode-Theme"
