@@ -2,7 +2,7 @@
     "name": "tactacam-vscode-theme",
     "displayName": "Tactacam VSCode Theme",
     "description": "VSCode Theme using the Tactacam Universal Design System colors",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "Starscope",
     "galleryBanner.color": "#101010",
     "icon": "Icon.png",
