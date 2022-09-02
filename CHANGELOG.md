@@ -26,3 +26,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ### Removed
 - Removed Plug
+
+## [0.0.3] - 08/31/22
+### Changed
+- Changed Thumbnail Image
+- Added New Plug
